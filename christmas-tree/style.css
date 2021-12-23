@@ -175,9 +175,9 @@
 .base .trunk {
 	position: absolute;
 	top: 1470px;
-	left: 50%;
-	width: 100px;
-	height: 300px;
+	left: 45%;
+	width: 150px;
+	height: 400px;
 	background-color: rgb(133, 78, 76);
 	z-index: 1;
 	transform: translateX(-40px);
